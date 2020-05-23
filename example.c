@@ -5,3 +5,8 @@ Feature1()
 Test sample of f1;
 }
 
+Feature2()
+{
+A sample test text feature2
+}
+
