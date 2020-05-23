@@ -10,3 +10,7 @@ Feature2()
 A sample test text feature2
 }
 
+Security patch()
+{
+this will include all the newest security patches
+}
